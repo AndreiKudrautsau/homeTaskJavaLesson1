@@ -38,7 +38,7 @@ class Main {
                     count_m2++;
                     }
                 }
-            System.out.println("длина массива m2 =  "+ count_m2);
+            System.out.println("длина массива m2 =  " + count_m2);
 
             int[] m2 = new int [count_m2];
             index_m2 = 0;
